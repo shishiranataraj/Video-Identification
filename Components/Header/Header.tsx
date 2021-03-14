@@ -35,11 +35,9 @@ const Header = ({setMedia}) => {
             </View>
          
             <Text style={styles.header__text}>
-                Crisp Camera
+               Test Camera  
             </Text>
-            <TouchableOpacity style={styles.header__share} >
-                <Feather name="settings" size={24} color="orange" />
-            </TouchableOpacity>
+           
         </View>
     )
 }

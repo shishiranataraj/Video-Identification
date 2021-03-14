@@ -34,7 +34,8 @@ const styles = StyleSheet.create({
         fontWeight: "500",
         letterSpacing: 2,
         textTransform: "uppercase",
-        color:"lightseagreen"
+        color:"white",
+        marginRight: 140
     }
 })
 export default styles
